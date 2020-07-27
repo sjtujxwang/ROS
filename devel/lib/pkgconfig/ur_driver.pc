@@ -1,0 +1,8 @@
+prefix=/home/wjx/new/devel
+
+Name: ur_driver
+Description: Description of ur_driver
+Version: 1.2.7
+Cflags: -I/home/wjx/new/devel/include
+Libs: -L/home/wjx/new/devel/lib 
+Requires: dynamic_reconfigure

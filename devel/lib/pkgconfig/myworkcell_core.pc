@@ -1,0 +1,8 @@
+prefix=/home/wjx/new/devel
+
+Name: myworkcell_core
+Description: Description of myworkcell_core
+Version: 0.0.0
+Cflags: -I/home/wjx/new/devel/include
+Libs: -L/home/wjx/new/devel/lib 
+Requires: roscpp fake_ar_publisher message_runtime geometry_msgs tf moveit_ros_planning_interface ur5_demo_descartes descartes_trajectory descartes_planner descartes_utilities trajectory_msgs

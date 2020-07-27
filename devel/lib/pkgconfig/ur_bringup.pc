@@ -1,0 +1,8 @@
+prefix=/home/wjx/new/devel
+
+Name: ur_bringup
+Description: Description of ur_bringup
+Version: 1.2.7
+Cflags: 
+Libs: -L/home/wjx/new/devel/lib 
+Requires: 

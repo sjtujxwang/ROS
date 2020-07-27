@@ -1,0 +1,8 @@
+prefix=/home/wjx/new/devel
+
+Name: descartes_utilities
+Description: Description of descartes_utilities
+Version: 0.0.1
+Cflags: -I/home/wjx/new/src/descartes/descartes_utilities/include
+Libs: -L/home/wjx/new/devel/lib -ldescartes_utilities
+Requires: descartes_core descartes_trajectory trajectory_msgs

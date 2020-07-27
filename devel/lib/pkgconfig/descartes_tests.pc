@@ -1,0 +1,8 @@
+prefix=/home/wjx/new/devel
+
+Name: descartes_tests
+Description: Description of descartes_tests
+Version: 0.1.0
+Cflags: -I/home/wjx/new/src/descartes/descartes_tests/include
+Libs: -L/home/wjx/new/devel/lib -ldescartes_tests
+Requires: descartes_moveit descartes_planner descartes_trajectory

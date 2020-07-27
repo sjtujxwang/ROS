@@ -1,0 +1,8 @@
+prefix=/home/wjx/new/devel
+
+Name: ur_description
+Description: Description of ur_description
+Version: 1.2.7
+Cflags: 
+Libs: -L/home/wjx/new/devel/lib 
+Requires: 

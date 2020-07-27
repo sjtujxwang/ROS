@@ -1,0 +1,8 @@
+prefix=/home/wjx/new/devel
+
+Name: fake_ar_publisher
+Description: Description of fake_ar_publisher
+Version: 0.0.0
+Cflags: -I/home/wjx/new/devel/include
+Libs: -L/home/wjx/new/devel/lib 
+Requires: roscpp std_msgs visualization_msgs

@@ -1,0 +1,8 @@
+prefix=/home/wjx/new/devel
+
+Name: ur5_demo_descartes
+Description: Description of ur5_demo_descartes
+Version: 0.0.0
+Cflags: -I/home/wjx/new/src/ur5_demo_descartes/include
+Libs: -L/home/wjx/new/devel/lib -lur5_demo_descartes
+Requires: moveit_core descartes_moveit pluginlib

@@ -1,0 +1,8 @@
+prefix=/home/wjx/new/devel
+
+Name: descartes_trajectory
+Description: Description of descartes_trajectory
+Version: 0.0.1
+Cflags: -I/home/wjx/new/src/descartes/descartes_trajectory/include -I/usr/include -I/usr/include/eigen3
+Libs: -L/home/wjx/new/devel/lib -ldescartes_trajectory
+Requires: descartes_core moveit_core roscpp

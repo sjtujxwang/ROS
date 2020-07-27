@@ -1,0 +1,8 @@
+prefix=/home/wjx/new/devel
+
+Name: descartes_core
+Description: Description of descartes_core
+Version: 0.0.1
+Cflags: -I/home/wjx/new/src/descartes/descartes_core/include -I/usr/include -I/usr/include/eigen3
+Libs: -L/home/wjx/new/devel/lib -ldescartes_core
+Requires: moveit_core roscpp
